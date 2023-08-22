@@ -1,2 +1,2 @@
-# tfg-base-docs
-The Base Documentation for TFG API's.
+# TFG - {LANGUAGE NAME HERE}
+TurquoiseTNT's Fomat Guide API implemented in {LANGUAGE NAME HERE}
